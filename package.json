@@ -1,0 +1,14 @@
+{
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Aplicativo desktop para o Notion",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "patrikrufino",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
