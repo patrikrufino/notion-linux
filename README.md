@@ -1,9 +1,5 @@
 ## Notion Linux
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/patrikrufino/notion-linux)](https://github.com/patrikrufino/notion-linux/releases/latest)
-[![GitHub last commit](https://img.shields.io/github/last-commit/patrikrufino/notion-linux)](https://github.com/patrikrufino/notion-linux/commits/main)
-[![GitHub](https://img.shields.io/github/license/patrikrufino/notion-linux)](https://github.com/patrikrufino/notion-linux/blob/main/LICENSE)
-
 Este é um aplicativo desktop do Notion para Linux feito com o framework Electron. Ele permite que você acesse o Notion diretamente do seu desktop Linux.
 
 ### Instalação
@@ -18,11 +14,6 @@ Este é um aplicativo desktop do Notion para Linux feito com o framework Electro
 
 - Electron
 - JavaScript
-
-### Acessos
-
-- Último release: [![GitHub release (latest by date)](https://img.shields.io/github/v/release/patrikrufino/notion-linux)](https://github.com/patrikrufino/notion-linux/releases/latest)
-- Total de acessos: ![Visitor Count](https://profile-counter.glitch.me/patrikrufino/notion-linux/count.svg)
 
 ### Como contribuir
 
